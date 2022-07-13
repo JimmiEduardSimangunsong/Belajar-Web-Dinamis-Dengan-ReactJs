@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `teknologi sederhana yang dipakai`
+1. React JS library javascript: https://reactjs.org
+
+2. React Bootstrap UI framework: https://react-bootstrap.github.io/
+
+3. Axios module data fetching: https://axios-http.com
+
+4. TMDB opensource API media: https://www.themoviedb.org/
+
+### `Media Belajar`
+Youtube Dea Afrizal :https://www.youtube.com/watch?v=XTWVboitytE&t=703s
